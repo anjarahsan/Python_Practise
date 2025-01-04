@@ -4,3 +4,4 @@ drawer= turtle.Turtle()
 for i in range(5):
     drawer.forward(100)
     drawer.right(144)
+print("This is the first program")
